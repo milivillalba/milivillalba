@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/564x/ca/24/51/ca2451b00eb7c6eaf95a90d70e972a0d.jpg" alt="Banner" width="400"/>
+  <img src="https://i.pinimg.com/564x/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" alt="Cute image" width="300"/>
 
   <h1 style="color: #ff69b4;">Hi there! 👋 I'm Mili</h1>
   
@@ -23,5 +23,5 @@
     </a>
   </p>
 
-  <img src="https://i.pinimg.com/564x/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" alt="Cute image" width="300"/>
+  
 </div>
