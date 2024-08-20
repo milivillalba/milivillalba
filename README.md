@@ -15,7 +15,7 @@
 
   <h2 style="color: #ffb6c1;">Let's Connect!</h2>
   <p>
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <a href="https://www.linkedin.com/in/milagros-villalba-909a59298/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%23ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://twitter.com/your-profile" target="_blank">
