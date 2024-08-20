@@ -4,13 +4,13 @@
   <h1 style="color: #ff69b4;">Hi there! 👋 I'm Mili</h1>
   
   <p style="color: #ffb6c1; font-size: 18px;">
-    I'm a passionate developer who loves creating beautiful and functional applications.
+    Soy un desarrollador apasionado que ama crear aplicaciones bellas y funcionales.
   </p>
 
   <p style="color: #ff69b4;">
     🌸 Frontend: React, Tailwind CSS <br>
     🍀 Backend: Node.js, Express, MySQL <br>
-    💖 Fun fact: I adore everything pink and cute!
+    💖 Fun fact: confia en el proceso!
   </p>
 
   <h2 style="color: #ffb6c1;">Let's Connect!</h2>
