@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/564x/ca/24/51/ca2451b00eb7c6eaf95a90d70e972a0d.jpg" alt="Banner" width="600"/>
+  <img src="https://i.pinimg.com/564x/ca/24/51/ca2451b00eb7c6eaf95a90d70e972a0d.jpg" alt="Banner" width="400"/>
 
   <h1 style="color: #ff69b4;">Hi there! 👋 I'm Mili</h1>
   
