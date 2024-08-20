@@ -23,5 +23,5 @@
     </a>
   </p>
 
-  <img src="https://your-cute-image-url-here" alt="Cute image" width="300"/>
+  <img src="https://i.pinimg.com/564x/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" alt="Cute image" width="300"/>
 </div>
