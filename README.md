@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/564x/48/4f/72/484f7219c122ff3d5b7ffd6e3095d299.jpg" alt="Cute image" width="300"/>
 
-  # ✨ Hi there! 👋 I'm Mili 💖  
+  # ✨ Hola! 👋 Soy Milagros Villalba 💖  
 </div>
 
 ---
@@ -28,8 +28,8 @@
     <a href="https://www.linkedin.com/in/milagros-villalba-909a59298/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%23ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/your-profile" target="_blank">
-      <img src="https://img.shields.io/badge/-Twitter-%23ff69b4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <a href="mailto:soledad110203@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-%23ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
