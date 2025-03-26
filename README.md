@@ -3,15 +3,21 @@
 
   <h1 style="color: #ff69b4;">Hi there! 👋 I'm Mili</h1>
   
-  <p style="color: #ffb6c1; font-size: 18px;">
-    Soy un desarrollador apasionado que ama crear aplicaciones bellas y funcionales.
-  </p>
+ # ✨ Milagros | Full Stack Developer 💖  
 
-  <p style="color: #ff69b4;">
-    🌸 Frontend: React, Tailwind CSS <br>
-    🍀 Backend: Node.js, Express, MySQL <br>
-    💖 Fun fact: confia en el proceso!
-  </p>
+## 🌸 Sobre mí  
+👩‍💻 **Técnica en Desarrollo de Software Multiplataforma**  
+💡 **Full Stack Developer** con un enfoque especial en **Back-End**, pero con un gran amor por el diseño y la experiencia de usuario en **Front-End**.  
+💖 Apasionada por la tecnología y la creación de **soluciones innovadoras** que hacen la vida más fácil y bonita.  
+
+## 🎀 Tecnologías & Habilidades  
+🌿 **Back-End:** Node.js, Express, MySQL, Sequelize  
+🌸 **Front-End:** React, Tailwind CSS  
+✨ **Otros:** Git, API REST, Arquitectura de Software  
+
+🌟 Siempre en busca de aprender algo nuevo, mejorar mis habilidades y dar lo mejor de mí en cada proyecto. 💫  
+
+📫 **¡Conectemos!** Me encantará compartir ideas y aprender juntas 💕  
 
   <h2 style="color: #ffb6c1;">Let's Connect!</h2>
   <p>
