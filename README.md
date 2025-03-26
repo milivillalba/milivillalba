@@ -9,12 +9,12 @@
 ## 🌸 Sobre mí  
 👩‍💻 **Técnica en Desarrollo de Software Multiplataforma**  
 💡 **Full Stack Developer** con un enfoque especial en **Back-End**, pero con un gran amor por el diseño y la experiencia de usuario en **Front-End**.  
-💖 Apasionada por la tecnología y la creación de **soluciones innovadoras** que hacen la vida más fácil y bonita.  
+💖 Apasionada por la tecnología y la creación de soluciones digitales innovadoras y atractivas.  
 
 ---
 
 ## 🎀 Tecnologías & Habilidades  
-🌿 **Back-End:** Node.js, Express, MySQL, Sequelize  
+🌿 **Back-End:** Node.js, Express, MySQL, Sequelize,Postgres.
 🌸 **Front-End:** React, Tailwind CSS  
 ✨ **Otros:** Git, API REST, Arquitectura de Software  
 
